@@ -1,25 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:17:1-46:12
+MERGED from [:arcore_rendering_utils:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_rendering_utils.aar/c336f47f27a0d8c282b3fbdf42a39b4d/AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_unity.aar/d49aa69effd5656920f4fa12ace3302c/AndroidManifest.xml:2:1-11:12
+MERGED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:2:1-19:12
+MERGED from [:unityandroidpermissions:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/unityandroidpermissions.aar/d2e596520a0a93947fc1fc73e474c965/AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/unitygar.aar/3e50512052eb05af0da755dc30e231d2/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-103
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:104-150
 	android:versionCode
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
@@ -38,7 +44,11 @@ ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/mai
 	android:anyDensity
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
 application
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-18:17
+MERGED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:30:5-44:19
+MERGED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:13:5-17:19
 	android:label
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
 	android:icon
@@ -83,54 +93,98 @@ ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/mai
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
 	android:name
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.tango-enable
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-73
+	android:value
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:13:50-70
+	android:name
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-64
 meta-data#unity.build-id
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-101
 	android:value
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:15:46-98
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-45
 meta-data#unity.splash-mode
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-69
 	android:value
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:16:49-66
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-48
 meta-data#unity.splash-enable
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-74
 	android:value
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:17:51-71
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-50
 uses-feature#0x00020000
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-52
 	android:glEsVersion
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-63
+	android:name
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-60
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-65
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:21:20-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-77
+	android:name
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:22:20-74
+uses-feature#android.hardware.location.gps
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-89
+	android:required
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:23:62-86
+	android:name
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-61
+uses-feature#android.hardware.location
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-85
+	android:required
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:24:58-82
+	android:name
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-57
 uses-feature#android.hardware.touchscreen
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-88
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-88
 	android:required
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:19:61-85
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:25:61-85
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-60
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-99
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:26:3-99
 	android:required
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:20:72-96
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:26:72-96
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-71
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-108
+ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:27:3-108
 	android:required
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:21:81-105
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:27:81-105
 	android:name
-		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-80
+		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml:27:17-80
 uses-sdk
 INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_rendering_utils:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_rendering_utils.aar/c336f47f27a0d8c282b3fbdf42a39b4d/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_rendering_utils.aar/c336f47f27a0d8c282b3fbdf42a39b4d/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_unity.aar/d49aa69effd5656920f4fa12ace3302c/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_unity.aar/d49aa69effd5656920f4fa12ace3302c/AndroidManifest.xml:7:5-9:41
+MERGED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:7:5-44
+MERGED from [:unityandroidpermissions:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/unityandroidpermissions.aar/d2e596520a0a93947fc1fc73e474c965/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/unityandroidpermissions.aar/d2e596520a0a93947fc1fc73e474c965/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/unitygar.aar/3e50512052eb05af0da755dc30e231d2/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/unitygar.aar/3e50512052eb05af0da755dc30e231d2/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -141,3 +195,35 @@ INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 		ADDED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
 		INJECTED from /Users/zelene/Developments/ER-spec/spawning_3D/Temp/gradleOut/src/main/AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/41f44bcabe8f16fa17e209687c9faaae/AndroidManifest.xml:38:13-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:10:9-50
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:google_ar_required:] /Users/zelene/.gradle/caches/transforms-1/files-1.1/google_ar_required.aar/a80a822db20bbc16f85a51a780291ae7/AndroidManifest.xml:15:13-46

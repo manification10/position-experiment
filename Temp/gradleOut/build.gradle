@@ -26,6 +26,12 @@ apply plugin: 'com.android.application'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'arcore_client', ext:'aar')
+    implementation(name: 'arcore_rendering_utils', ext:'aar')
+    implementation(name: 'arcore_unity', ext:'aar')
+    implementation(name: 'google_ar_required', ext:'aar')
+    implementation(name: 'unityandroidpermissions', ext:'aar')
+    implementation(name: 'unitygar', ext:'aar')
 }
 
 android {

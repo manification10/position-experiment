@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: fc75bcb5f6fe84d32b346211c342a62a
+  - enabled: 1
+    path: Assets/Scenes/spawning.unity
+    guid: e6a6fa04348cb45c9b0221eb19c946da
+  - enabled: 0
+    path: Assets/GoogleARCore/Examples/ObjectManipulation/Scenes/ObjectManipulation.unity
+    guid: 9dba7e74f4d2b410f90b920f80528d44
   m_configObjects: {}
