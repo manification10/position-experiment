@@ -71,7 +71,8 @@ public class SceneController : MonoBehaviour
 
             poseBody_prefab = Resources.Load("Prefabs/Pose"+poseNumber+"Animation"); 
 
-            GameObject poseBody = Instantiate(poseBody_prefab, hit.collider.transform.position , Quaternion.identity) as GameObject;
+            GameObject poseBody = Instantiate(poseBody_prefab,new Vector3 (hit.collider.transform.position.x, hit.collider.transform.position.y - 1.0f, hit.collider.transform.position.z), Quaternion.identity) as GameObject;
+            poseBody.transform.localScale = new Vector3(5.0f, 5.0f, 5.0f);
 
 
             Animator animator = poseBody.gameObject.GetComponent<Animator>();

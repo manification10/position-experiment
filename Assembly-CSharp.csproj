@@ -255,9 +255,8 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPSessionStatus.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs" />
     <Compile Include="Assets\runtimeController.cs" />
+    <Compile Include="Assets\Scripts\DiamondBehavior.cs" />
     <Compile Include="Assets\Scripts\GeoLocation.cs" />
-    <Compile Include="Assets\Scripts\Instantiate.cs" />
-    <Compile Include="Assets\Scripts\Instantiate_1.cs" />
     <Compile Include="Assets\Scripts\SceneController.cs" />
     <Compile Include="Assets\Scripts\touch.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
